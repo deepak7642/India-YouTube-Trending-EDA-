@@ -1,6 +1,7 @@
 # India-YouTube-Trending-EDA-
 In this you will see the  analyse of youtube data to undersand the India videos patterns.
-We will find for some informations like:
+
+You will find some informations related to likes:
 
 * Whats the most frequent type of video?
 * The distribuition of views, likes, comments and engamet is equal for all category's?
