@@ -7,3 +7,5 @@ You will find some informations related to likes:
 * The distribuition of views, likes, comments and engamet is equal for all category's?
 * We have normal distribuition to the values?
 * Whats the most frequent names in title, description, tags?
+
+#### Data Source : https://www.kaggle.com/datasnaek/youtube-new 
